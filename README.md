@@ -20,5 +20,5 @@ Installation
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/pdf-decryption-tool.git
+   git clone https://github.com/Halimat100/Decrypt--file
    cd pdf-decryption-tool
